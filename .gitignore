@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+
+# Large/raw geospatial data
+data/raw/
+data/processed/
+
+# Generated outputs
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
