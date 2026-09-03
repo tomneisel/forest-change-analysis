@@ -14,9 +14,6 @@ data/raw/
 data/processed/
 models/
 
-# Generated outputs
-outputs/
-
 # OS
 .DS_Store
 Thumbs.db
