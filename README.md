@@ -25,7 +25,9 @@ that data to analyse changes in forest cover over time.
 
 ## Study Area
 
-Harz region, Germany.
+Harz National Park, Germany.
+
+![NIR](outputs/harz.png)
 
 ## Years
 
