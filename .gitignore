@@ -12,6 +12,7 @@ venv/
 # Large/raw geospatial data
 data/raw/
 data/processed/
+models/
 
 # Generated outputs
 outputs/
