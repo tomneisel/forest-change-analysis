@@ -35,4 +35,6 @@ Harz region, Germany.
 
 ## Results
 
-[Hier später schöne Karten/Plots einfügen]
+### Data Exploration
+
+First the data had to be preprocessed, as non of the Sentinel-2-images covers the entire area of the Harz National Park, so two images were merged and the park area selected.
